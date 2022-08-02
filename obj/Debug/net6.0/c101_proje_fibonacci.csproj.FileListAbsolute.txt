@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\bin\Debug\net6.0\c101_proje_fibonacci.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\bin\Debug\net6.0\c101_proje_fibonacci.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\bin\Debug\net6.0\c101_proje_fibonacci.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\bin\Debug\net6.0\c101_proje_fibonacci.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\bin\Debug\net6.0\c101_proje_fibonacci.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\refint\c101_proje_fibonacci.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\c101_proje_fibonacci.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_fibonacci\obj\Debug\net6.0\ref\c101_proje_fibonacci.dll
